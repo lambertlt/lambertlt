@@ -5,8 +5,12 @@ All along, I thought I was different, and gradually found that I was just an ord
 <img src="https://image.flaticon.com/icons/png/512/1198/1198464.png" width = "20" height = "20" alt="图片名称"/>  hebei.shijiazhuang  
 <img src="https://image.flaticon.com/icons/png/512/2000/2000920.png" width = "20" height = "20" alt="图片名称"/>  bachelor's
 
+#### Hobby
 
-
+Surfing the Internet  
+Cycling、Play Badminton  
+Reading Book  
+Coding
 
 ### Hot Repositories
 

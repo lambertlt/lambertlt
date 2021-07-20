@@ -1,6 +1,11 @@
-### I'm lambert, Living in a world of dilemma, because no one encouraged me by start !!!
-
+### Myself
+I'm lambert, Living in a world of dilemma, because no one encouraged me by start !!!
 All along, I thought I was different, and gradually found that I was just an ordinary person, living an ordinary life
+
+### Hot Repositories
+
+- [https://github.com/lambertlt/videos](https://github.com/lambertlt/videos) 什么影视综艺都可以看[点击使用](https://lambertlt.github.io/videos/)
+- [https://github.com/lambertlt/web_primary_study_project](https://github.com/lambertlt/web_primary_study_project)  这是一个前端学习入门项目仓库
 
 |Blog|GitHub|Email|
 |:-:|:-:|:-:|

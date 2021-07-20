@@ -12,6 +12,8 @@ Cycling、Play Badminton
 Reading Book  
 Coding
 
+> My Hello World Code has the following version: `C`、`PHP`、`Python`、`Java`、`HTML`、`JavaScript`、`Shell`、`txt`
+
 ### Hot Repositories
 
 - [https://github.com/lambertlt/videos](https://github.com/lambertlt/videos) 什么影视综艺都可以看[点击使用](https://lambertlt.github.io/videos/)

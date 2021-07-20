@@ -1,5 +1,5 @@
 ### Myself
-I'm lambert, Living in a world of dilemma, because no one encouraged me by start !!!
+I'm lambert, Living in a world of dilemma, because no one encouraged me by start ☆ !!!
 
 All along, I thought I was different, and gradually found that I was just an ordinary person, living an ordinary life
 

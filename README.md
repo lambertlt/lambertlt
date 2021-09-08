@@ -18,7 +18,6 @@ Coding
 ### Hot Repositories
 
 - [https://github.com/lambertlt/videos](https://github.com/lambertlt/videos) 什么影视综艺都可以看[点击使用](https://lambertlt.github.io/videos/)
-- [https://github.com/lambertlt/web_primary_study_project](https://github.com/lambertlt/web_primary_study_project)  这是一个前端学习入门项目仓库
 
 |Blog|GitHub|Email|
 |:-:|:-:|:-:|
